@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">BusBookingSystem</string>
+    <string name="login_as_admin">LOGIN AS ADMIN</string>
+</resources>
